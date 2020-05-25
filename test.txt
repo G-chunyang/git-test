@@ -1,2 +1,3 @@
 chakan xiuga
 add 提交缓冲区命令 练习行
+push 练习
